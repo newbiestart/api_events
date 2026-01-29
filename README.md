@@ -39,4 +39,4 @@ python3 bot.py
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/newbiestart/api_events/tree/main?tab=MIT-1-ov-file)
